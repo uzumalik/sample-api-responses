@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: sample-api-responses
+
+server:
+  port: 8080
+  servlet:
+    context-path: /sample
